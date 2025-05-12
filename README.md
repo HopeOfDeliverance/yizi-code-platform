@@ -1,2 +1,2 @@
 # yizi-code-platform
-亿滋码凭条
+亿滋码平台项目
